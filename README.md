@@ -1,5 +1,7 @@
 # Roulette Go
 Group Members: Yasmine Ksiyer and Valeria Chang
+[Valeria Chang](https://github.com/ValeriaChang)
+[Yasmine Ksiyer](https://github.com/yasminek27)
 
 What and Why?
 
