@@ -1,4 +1,5 @@
 # Roulette Go
+Group Members: Yasmine Ksiyer and Valeria Chang
 
 What and Why?
 
